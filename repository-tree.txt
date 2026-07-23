@@ -1,0 +1,50 @@
+fos-repository-template-filled-rpd/
+├── data/
+│   ├── assessment-system.csv
+│   └── measurement-model.csv
+├── docs/
+│   └── rpd.md
+├── Exam/
+│   ├── independent-work.md
+│   └── README.md
+├── M1-embedded-platforms-cpp/
+│   ├── independent-work.md
+│   └── README.md
+├── M2-multimodal-data/
+│   ├── independent-work.md
+│   └── README.md
+├── M3-rtos-linux-inference/
+│   ├── independent-work.md
+│   └── README.md
+├── M4-model-compression-export/
+│   ├── independent-work.md
+│   └── README.md
+├── M5-edge-cv-signal-processing/
+│   ├── independent-work.md
+│   └── README.md
+├── M6-autonomous-edge-devices/
+│   ├── independent-work.md
+│   └── README.md
+├── methodical-guidelines/
+│   ├── assessment.md
+│   ├── README.md
+│   ├── resources.md
+│   └── students.md
+├── other/
+│   ├── llm-prompt.md
+│   └── quality-control.md
+├── Project/
+│   └── README.md
+├── resources/
+│   ├── datasets.md
+│   ├── README.md
+│   ├── scientific-articles.md
+│   ├── software.md
+│   └── textbooks.md
+├── team/
+│   └── README.md
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.md
+└── repository-tree.txt

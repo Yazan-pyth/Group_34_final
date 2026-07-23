@@ -1,0 +1,10 @@
+﻿number,element,competency_code,indicator,level,control_form,kim
+1,Архитектура embedded-платформ и программирование периферии на C/C++,PL-4,PL-4.2,Продвинутый (П),Текущая,M1-embedded-platforms-cpp/README.md
+2,Сбор и предобработка мультимодальных данных для Edge AI,DL-3,DL-3.3,Средний (С),Текущая,M2-multimodal-data/README.md
+3,ОС реального времени и Linux для ML-инференса,LC-5,LC-5.1,Продвинутый (П),Текущая,M3-rtos-linux-inference/README.md
+4,"Оптимизация, сжатие и экспорт нейросетей",DL-1,DL-1.11,Средний (С),Рубежная,M4-model-compression-export/README.md
+5,Алгоритмы компьютерного зрения и обработки сигналов на периферии,DL-3,DL-3.3,Средний (С),Текущая,M5-edge-cv-signal-processing/README.md
+6,Проектирование и профилирование автономных Edge AI-устройств,LC-5,LC-5.1,Продвинутый (П),Текущая,M6-autonomous-edge-devices/README.md
+6,Проектирование и профилирование автономных Edge AI-устройств,PL-4,PL-4.2,Продвинутый (П),Текущая,M6-autonomous-edge-devices/README.md
+7,Проектная работа,PL-4;DL-1;LC-5;DL-3,PL-4.2;DL-1.11;LC-5.1;DL-3.3,Средний/Продвинутый,Промежуточная,Project/README.md
+8,Итоговая аттестация,PL-4;DL-1;LC-5;DL-3,PL-4.2;DL-1.11;LC-5.1;DL-3.3,Средний/Продвинутый,Промежуточная,Exam/README.md
