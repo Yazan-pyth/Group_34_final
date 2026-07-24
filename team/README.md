@@ -8,7 +8,7 @@
 | Лесников Владислав Алексеевич | Вятский государственный университет | Методист | Разработка РПД | [lesnikov@vyatsu.ru](mailto:lesnikov@vyatsu.ru) | [https://orcid.org/0000-0002-5034-291X](https://orcid.org/0000-0002-5034-291X) |
 | Беспалов Сергей Вячеславович | НГУ | разработчик | разработка и модерация тестовых материалов | [s.bespalov1@g.nsu.ru](mailto:s.bespalov1@g.nsu.ru) |  |
 | Курасов Павел Александрович | ПГТУ | разработчик | разработка учебных материало | [KurasovPA@volgatech.net](mailto:KurasovPA@volgatech.net) | [https://orcid.org/0009-0005-2877-1899](https://orcid.org/0009-0005-2877-1899) |
-| Сафонова Елена Владимировна | ВолгГТУ | методист | актуализация РПД | [e_safonova@vstu.ru](mailto:e_safonova@vstu.ru) | [https://orcid.org/0009-0006-3798-6506](https://orcid.org/0009-0006-3798-6506) |
+| Сафонова Елена Владимировна | ВолгГТУ | методист | актуализация РПД | [e_safonova@vstu.ru](mailto:e_safonova@vstu.ru) | [https://orcid.org/my-orcid?orcid=0009-0006-3798-6506](https://orcid.org/my-orcid?orcid=0009-0006-3798-6506) |
 | Вассуф Язан | РЭУ Плеханова | эксперт по нейросетям и содержанию | Разработка и интеграция сожержания | [Vassuf.Y@rea.ru](mailto:Vassuf.Y@rea.ru) | [https://orcid.org/0000-0003-4758-7569](https://orcid.org/0000-0003-4758-7569) |
 
 ## Принципы ведения репозитория
