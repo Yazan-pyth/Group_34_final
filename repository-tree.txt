@@ -3,7 +3,8 @@ fos-repository-template-filled-rpd/
 │   ├── assessment-system.csv
 │   └── measurement-model.csv
 ├── docs/
-│   └── rpd.md
+│   ├── rpd.md
+│   └── tests-edge-ai-v2.docx
 ├── Exam/
 │   ├── independent-work.md
 │   └── README.md
