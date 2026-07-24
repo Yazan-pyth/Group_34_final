@@ -49,12 +49,6 @@
 
 ## 3. Контрольно-измерительные материалы
 
-- [Тесты модуля 1](M1-embedded-platforms-cpp/tests.md) — темы `Л1.1`, `Л1.2`;
-- [Тесты модуля 2](M2-multimodal-data/tests.md) — темы `Л2.1`, `Л2.2`;
-- [Тесты модуля 3](M3-rtos-linux-inference/tests.md) — темы `Л3.1`, `Л3.2`;
-- [Тесты модуля 4](M4-model-compression-export/tests.md) — темы `Л4.1`, `Л4.2`;
-- [Тесты модуля 5](M5-edge-cv-signal-processing/tests.md) — темы `Л5.1`, `Л5.2`;
-- [Тесты модуля 6](M6-autonomous-edge-devices/tests.md) — тема `Л6.1`;
 - [Модуль 1](M1-embedded-platforms-cpp/README.md) — архитектура embedded-платформ и C/C++;
 - [Модуль 2](M2-multimodal-data/README.md) — сбор и предобработка мультимодальных данных;
 - [Модуль 3](M3-rtos-linux-inference/README.md) — FreeRTOS и embedded Linux;
